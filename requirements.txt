@@ -1,0 +1,11 @@
+python-dotenv
+openai
+openai-whisper
+yt-dlp
+youtube_dl
+youtube_transcript_api
+torchaudio
+sentencepiece
+sacremoses
+transformers
+streamlit
