@@ -19,7 +19,7 @@ Configuring a free ML development environment using Amazon SageMaker Studio Lab,
 Another way is creating a Streamlit Web App where the user can add their Youtube URL and OpenAI API keys and can Generate Summary, using Hugging Face Translation models they can translate into different languages and to test their technical skills they can Create quiz using Open AI.
 
 # Table of Contents
-1.Introduction
+## 1.Introduction
 
 This project aims to automate the process of summarizing YouTube video content and generating quizzes based on the video's transcript. It utilizes the YouTube Transcript API to extract the transcript of a specified video URL. Additionally, it employs the OpenAI GPT-3 model through the transformers library to generate summaries, steps, and quiz questions based on the extracted transcript. The summaries and quiz questions are designed to provide key information and assess the user's understanding of the video's content.
 
